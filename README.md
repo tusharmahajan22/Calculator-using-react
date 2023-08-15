@@ -61,7 +61,7 @@ This project was inspired by the desire to provide a simple and accessible calcu
 
 ## Contact
 
-If you have any questions or inquiries, feel free to contact us at [your.email@example.com](mailto:your.email@example.com).
+If you have any questions or inquiries, feel free to contact us at [your.email@example.com](mailto:tusharmahajan1114@gmail.com).
 
 ---
 *This README template is adapted from the [PurpleBooth/README-Template](https://github.com/PurpleBooth/README-Template).*
